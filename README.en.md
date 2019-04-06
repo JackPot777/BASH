@@ -1,10 +1,10 @@
-## Useful bash / zsh shortcuts
+# Useful bash / zsh shortcuts
 
 *Select a language: [Russian](README.md) :ru:*
 
 MacOS iTerm 2 users must turn on meta key — https://coderwall.com/p/_lmivq
 
-Visual cheatsheet: 
+## Visual cheatsheet: 
 
 ![visual cheetsheet](https://github.com/JackPot777/BASH/blob/master/moving_cli.png?raw=true)
 ____
